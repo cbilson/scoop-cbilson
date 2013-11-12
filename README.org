@@ -1,0 +1,29 @@
+#+TITLE: scoop-cbilson
+
+My custom scoop recipes...stuff that I may PR to scoop-extras or scoop
+someday, if it even works...
+
+* TODOs
+  Here are some recipes I want to make before I setup my next window
+  machine:
+
+  - [ ] aspell
+  - [ ] ack
+  - [ ] conkeror
+  - [ ] dotpeek
+  - [ ] exploded sysinternals suite, as well as the whole suite.
+  - [ ] fsharp, fsx
+  - [ ] git-tfs
+  - [ ] nemerle
+
+* Ideas
+
+** DotFiles
+   I wish there were a way to define all the dotfiles I want in a JSON
+   file or something like that, and say something like `scoop install
+   mydotfiles` to get them all from github or wherever.
+   - I guess this isn't a scoop problem per se, just something I want
+     to do around the same time as using scoop to set up a machine.
+   - I'd like this to work across platforms and allow me to
+     update.
+
