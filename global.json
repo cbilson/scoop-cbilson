@@ -1,0 +1,8 @@
+{
+    "homepage": "http://www.gnu.org/software/global/download.html",
+    "license": "GPL3",
+    "version": "6.2.9",
+    "url": "http://adoxa.hostmyway.net/global/glo629wb.zip",
+    "hash": "0bacb11102b2ed80543f43b308934f6dc08e677dc55e1818fecef3f8d7615bf0",
+    "bin": ["bin\\global.exe", "bin\\gtags.exe", "bin\\htags.exe"]
+}
