@@ -8,7 +8,8 @@ someday, if it even works...
   machine:
 
   - [ ] aspell
-  - [ ] ack
+  - [-] ack - forget it, just use ag
+  - [x] ag
   - [ ] conkeror
   - [ ] dotpeek
   - [ ] exploded sysinternals suite, as well as the whole suite.

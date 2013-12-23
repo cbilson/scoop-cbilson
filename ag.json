@@ -1,0 +1,8 @@
+{
+    "homepage": "http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html",
+    "license": "Apache v2.0",
+    "hash": "6a64f75b2514478f523f924feeb739afa6f53eca23d7eea038ef3a30cbe5ccb6",
+    "version": "0.18.1-1106",
+    "url": "https://kjkpub.s3.amazonaws.com/software/the_silver_searcher/rel/0.18.1-1106/ag.exe",
+    "bin": ["ag.exe"]
+}
